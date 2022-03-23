@@ -71,7 +71,7 @@ Here, the `box-orient` property will cause the two {{HTMLElement("p")}} sections
 </div>
 ```
 
-#### CSS
+#### balls hehe funny 
 
 ```css
 div.example {
